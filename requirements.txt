@@ -1,0 +1,5 @@
+streamlit==1.22.0
+pinecone-client==2.2.1
+cohere==3.10.0
+sentence-transformers==2.2.2
+PyPDF2==3.0.1
